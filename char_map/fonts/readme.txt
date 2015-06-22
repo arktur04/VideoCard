@@ -1,0 +1,1 @@
+for source of the bin2case see https://github.com/arktur04/bin2mif
